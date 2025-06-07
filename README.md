@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Archit Kumar</h1>
-<h3 align="center">CS Sophomore Student at UIET</h3>
+<h3 align="center">CS Sophomore Student at UIET Chandigarh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architxkumar&label=Profile%20views&color=0e75b6&style=flat" alt="architxkumar" /> </p>
 
