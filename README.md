@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archit Kumar</h1>
 <h3 align="center">Prefinal Year CSE Student @ UIET Chandigarh</h3>
 
-- 🔭 I’m currently working on [Unit Converter](https://github.com/architxkumar/Unit-Converter)
+- 🔭 I’m currently working on [Personal Blog](https://github.com/architxkumar/Personal-Blog)
 
 - 🌱 I’m currently learning **Fullstack App Development with Flutter and Golang**
 
