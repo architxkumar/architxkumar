@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on <a href="https://roadmap.sh/projects/expense-tracker-api">Expense Tracker</a><br>🌱 I’m currently learning Flutter and Golang
+🔭 I’m currently working on <a href="https://roadmap.sh/projects/image-grid">Image Grid Layout</a>, <a href="https://roadmap.sh/projects/expense-tracker-api">Expense Tracker API</a>, and <a href="https://roadmap.sh/projects/basic-dns">Basic DNS Setup</a>
+<br>
+🌱 I’m currently learning Flutter and Golang
 
 
 ## 🌐 Socials:
